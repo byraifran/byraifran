@@ -4,10 +4,11 @@
 
 ## Sobre mim
 
-Eu sou um programador Frontend.
+Eu sou um programador Full Stack.
 
 
 * Graduado em Análise e Desenvolvimento de Sistemas.
+* Estudante de Design Digital e User Experience (UX).
 * Pós-graduado em Engenharia de Software [Especiliazação].
 
 </br>

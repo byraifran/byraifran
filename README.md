@@ -42,7 +42,7 @@ Eu sou um programador Full Stack.
 
 ## Status
 <div>
-<a href="https://github.com/raifransantos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raifransantos&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raifransantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/byraifran">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byraifran&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=byraifran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>

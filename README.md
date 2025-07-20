@@ -1,6 +1,8 @@
 # Raifran Alves
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byraifran&color=yellow" alt="Profile views" /> </p>
 
+## Front-end Developer & UX Design
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:byraifran@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byraifran)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com.in/byraifran)

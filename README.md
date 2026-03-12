@@ -9,11 +9,10 @@
 
 ## Sobre mim
 
-Eu sou um programador Full Stack.
+Eu sou um desenvolvedor Frontend e UI.
 
 * Graduado em Análise e Desenvolvimento de Sistemas.
-* Estudante de Design Digital e User Experience (UX).
-* Pós-graduado em Engenharia de Software [Especiliazação].
+* Pós-graduado em Engenharia de Software.
 
 </br>
 
